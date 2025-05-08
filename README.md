@@ -54,13 +54,13 @@
 
 ## 📱 Featured Projects
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 300px; background-color: #1F222E; padding: 20px; border-radius: 10px; border-left: 5px solid #F85D7F;">
+<table>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/thejacedev/expo-screenshotter">
         <img src="https://github-readme-stats-orcin-theta-55.vercel.app/api/pin/?username=thejacedev&repo=expo-screenshotter&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="expo-screenshotter">
       </a>
-      <p align="center"><strong>📸 Expo Screenshotter</strong></p>
+      <h3 align="center">📸 Expo Screenshotter</h3>
       <p><strong>A command-line tool for automatically taking screenshots of Expo web apps at different screen sizes.</strong><br>
       Perfect for generating marketing materials, documentation, or testing responsive designs.</p>
       <h4>✨ Features</h4>
@@ -76,12 +76,12 @@
           <img src="https://img.shields.io/badge/View_Project-GitHub-1F222E?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
         </a>
       </div>
-    </div>
-    <div style="flex: 1; min-width: 300px; background-color: #1F222E; padding: 20px; border-radius: 10px; border-left: 5px solid #F85D7F;">
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/thejacedev/LaunchKit-CLI">
         <img src="https://github-readme-stats-orcin-theta-55.vercel.app/api/pin/?username=thejacedev&repo=LaunchKit-CLI&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="LaunchKit-CLI">
       </a>
-      <p align="center"><strong>🚀 LaunchKit CLI</strong></p>
+      <h3 align="center">🚀 LaunchKit CLI</h3>
       <p><strong>An interactive CLI tool for quickly creating new projects with various frameworks and templates.</strong><br>
       Streamlines project setup with beautiful terminal UI and extensive template options.</p>
       <h4>✨ Features</h4>
@@ -97,9 +97,9 @@
           <img src="https://img.shields.io/badge/View_Project-GitHub-1F222E?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub">
         </a>
       </div>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render-tau.vercel.app/api?type=soft&height=60&color=7600BD&text=NPM%20Packages&fontColor=ffffff&fontSize=30" width="100%" />
