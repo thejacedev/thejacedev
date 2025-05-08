@@ -200,7 +200,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=thejacedev&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" style="width: 48%; min-width: 300px;" />
   </div>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thejacedev&theme=radical&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" style="width: 70%; min-width: 300px; margin-top: 15px;" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=thejacedev&theme=radical&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" style="width: 70%; min-width: 300px; margin-top: 15px;" /> -->
 </div>
 
 <div align="center">
