@@ -24,7 +24,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Blaze_Gaming-Developer-F85D7F?style=for-the-badge&logo=java&logoColor=white" alt="Complex Gaming" />
+        <img src="https://img.shields.io/badge/Complex_Gaming-Developer-F85D7F?style=for-the-badge&logo=java&logoColor=white" alt="Complex Gaming" />
         <br>
         <b>Full-time Java Developer</b>
         <br>
