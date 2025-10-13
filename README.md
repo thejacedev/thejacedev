@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://jacesleeman.com">
+  <a href="http://thejacedev.xyz/">
     <img src="https://img.shields.io/badge/Website-jacesleeman.com-7600BD?style=for-the-badge&logo=globe&logoColor=white" alt="Jace Sleeman Website" />
   </a>
   <a href="https://github.com/thejacedev">
@@ -29,13 +29,6 @@
         <b>Full-time Java Developer</b>
         <br>
         <a href="https://discord.gg/complexvanilla">Complex Gaming</a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/J&G_Digital_LLC-Founder-F85D7F?style=for-the-badge&logo=react&logoColor=white" alt="J&G Digital LLC" />
-        <br>
-        <b>Owner & Founder</b>
-        <br>
-        <a href="https://jacesleeman.com">J&G Digital LLC</a>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Experience-7+_Years-F85D7F?style=for-the-badge&logo=code&logoColor=white" alt="Experience" />
