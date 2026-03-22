@@ -4,9 +4,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+tools+people+actually+want+to+use" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=true&width=435&height=30&lines=Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F8D866&center=true&vCenter=true&repeat=true&width=700&height=20&lines=Building+tools+people+actually+want+to+use" alt="Typing SVG" />
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.thejacedev.xyz/">
@@ -43,10 +47,15 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </p>
       <p><b>Features:</b> Split editor · Wiki links · Canvas · Flashcards · MCP server · Drawing editor · PDF viewer · Web clipper · Dataview queries · Focus mode · Custom themes</p>
+      <div>
+        <a href="https://www.noteriv.com/">
+          <img src="https://img.shields.io/badge/Website-noteriv.com-22c55e?style=for-the-badge" alt="Noteriv" />
+        </a>
+      </div>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/thejacedev/McHeadsWebsiteNewUpdated">
-        <img src="https://github-readme-stats-orcin-theta-55.vercel.app/api/pin/?username=thejacedev&repo=McHeadsWebsiteNewUpdated&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="MC Heads">
+      <a href="https://github.com/thejacedev/McHeads-API">
+        <img src="https://github-readme-stats-orcin-theta-55.vercel.app/api/pin/?username=thejacedev&repo=McHeads-API&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="MC Heads">
       </a>
       <h3>🎮 MC Heads</h3>
       <p><b>Free Minecraft avatar & skin API</b></p>
