@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://x.com/MainPerson98">
-    <img src="https://img.shields.io/badge/Twitter-@MainPerson98-7600BD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.thejacedev.xyz/">
+    <img src="https://img.shields.io/badge/Website-thejacedev.xyz-7600BD?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/thejacedev">
     <img src="https://img.shields.io/badge/GitHub-thejacedev-7600BD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
