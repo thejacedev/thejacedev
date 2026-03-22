@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render-tau.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Jace%20Sleeman&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render-tau.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Jace%20Sleeman&fontColor=ffffff&fontSize=50&fontAlignY=30&desc=&descAlignY=60&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+tools+people+actually+want+to+use" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -9,6 +15,12 @@
   <a href="https://github.com/thejacedev">
     <img src="https://img.shields.io/badge/GitHub-thejacedev-7600BD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejacedev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 <br>
@@ -56,42 +68,60 @@
 
 ## 💼 Products
 
-<div align="center">
-  <a href="https://getpagemark.com">
-    <img src="https://img.shields.io/badge/GetPagemark-Docs_Hosting-7600BD?style=for-the-badge" alt="GetPagemark" />
-  </a>
-  &nbsp;
-  <a href="https://reqpour.com">
-    <img src="https://img.shields.io/badge/ReqPour-Webhook_Relay-7600BD?style=for-the-badge" alt="ReqPour" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://getpagemark.com">
+        <img src="https://img.shields.io/badge/GetPagemark-7600BD?style=for-the-badge&logoColor=white" alt="GetPagemark" />
+      </a>
+      <br><br>
+      <b>Documentation Hosting</b>
+      <p>Beautiful docs for your projects, deployed in seconds.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://reqpour.com">
+        <img src="https://img.shields.io/badge/ReqPour-7600BD?style=for-the-badge&logoColor=white" alt="ReqPour" />
+      </a>
+      <br><br>
+      <b>Webhook Relay</b>
+      <p>Inspect, debug, and replay webhooks in real time.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <p>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img alt="Electron" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white">
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  </p>
+  <img src="https://skillicons.dev/icons?i=ts,java,react,nextjs,nodejs,electron,postgres,tailwind&theme=dark&perline=8" alt="Tech Stack" />
 </div>
 
+<br>
+
+## 📊 Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejacedev&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-orcin-theta-55.vercel.app/api?username=thejacedev&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thejacedev&theme=radical&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" height="180" />
 </div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thejacedev/thejacedev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thejacedev/thejacedev/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/thejacedev/thejacedev/output/github-snake-dark.svg" width="95%" />
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thejacedev&style=for-the-badge&color=7600BD" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render-tau.vercel.app/api?type=waving&color=7600BD&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render-tau.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 </div>
