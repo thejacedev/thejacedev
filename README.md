@@ -75,29 +75,6 @@
   </tr>
 </table>
 
-## 💼 Products
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://getpagemark.com">
-        <img src="https://img.shields.io/badge/GetPagemark-7600BD?style=for-the-badge&logoColor=white" alt="GetPagemark" />
-      </a>
-      <br><br>
-      <b>Documentation Hosting</b>
-      <p>Beautiful docs for your projects, deployed in seconds.</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://reqpour.com">
-        <img src="https://img.shields.io/badge/ReqPour-7600BD?style=for-the-badge&logoColor=white" alt="ReqPour" />
-      </a>
-      <br><br>
-      <b>Webhook Relay</b>
-      <p>Inspect, debug, and replay webhooks in real time.</p>
-    </td>
-  </tr>
-</table>
-
 <br>
 
 ## 🛠️ Tech Stack
